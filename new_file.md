@@ -20,3 +20,12 @@ git init
 git add .
 git commit -m 'init project'
 ```
+
+5、配置tabBar
+* 创建各个界面，并保存不然不会显示
+* 配置tabBar
+
+5、配置网络请求，安装第三方包：
+* npm init -y  创建package.json
+
+
